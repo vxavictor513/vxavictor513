@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Wai Loon — a software engineer who loves coding and solving complex problems.
+
+#### ⚒ Currently working on
+
+* Transforming enterprise with Azure DevOps
+* Analyzing DevOps outcomes on Power BI
+
+#### 🔰 Currently learning
+
+* Rust
+* Flutter
