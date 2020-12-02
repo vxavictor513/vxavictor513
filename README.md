@@ -21,6 +21,8 @@ I'm Wai Loon — a software engineer who loves coding and solving complex proble
 
 * Transforming enterprise with Azure DevOps
 * Analyzing DevOps outcomes on Power BI
+* Terraform on Azure and AWS
+* Implementing enterprise observability with Elastic stack
 
 #### 🔰 Currently learning
 
